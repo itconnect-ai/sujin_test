@@ -1,11 +1,11 @@
 /**
  * Kakao Maps JavaScript API Integration Module
  * Icheon Walking Tour Guide
- * App Key: d7db5a5025f24de38dd1af902b633258
+ * App Key: 5ad26b93bebe33fee7b5c3e71a0f1b28
  * Fully Synced with User Kakao Map Bookmarks
  */
 
-const KAKAO_APP_KEY = 'd7db5a5025f24de38dd1af902b633258';
+const KAKAO_APP_KEY = '5ad26b93bebe33fee7b5c3e71a0f1b28';
 
 const COURSE_MAP_CONFIG = {
   "course-01": {
